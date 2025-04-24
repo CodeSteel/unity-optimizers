@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game.Optimizer
+namespace Steelbox.Optimizer
 {
     public class OptimizerTestCamera : MonoBehaviour
     {

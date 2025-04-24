@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game.Optimizer
+namespace Steelbox.Optimizer
 {
     public abstract class BaseOptimizer : MonoBehaviour
     {

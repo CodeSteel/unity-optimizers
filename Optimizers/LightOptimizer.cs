@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game.Optimizer
+namespace Steelbox.Optimizer
 {
     public class LightOptimizer : BaseOptimizer
     {
